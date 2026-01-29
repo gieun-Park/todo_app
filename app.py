@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('✔To-do App✔')
+st.title('✅To-do App✅')
 
 class Todo:
     def __init__(self, task: str, done: bool = False):
